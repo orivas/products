@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Products</string>
+
+    <string name="initial_route">products</string>
+    <string name="no_data">No data</string>
+</resources>
